@@ -1,11 +1,2 @@
-bin/
-img/
-*.class
-.classpath
-.project
-.settings/
-*.jar
-*.dex
-*.apk
-*.ap_
-*~
+/bin/
+/.gradle/
